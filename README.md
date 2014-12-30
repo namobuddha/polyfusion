@@ -18,7 +18,7 @@ Make sure you have installed **node.js** and loaded **bower** correctly.
 
 Windows user in command prompt:
 
-    `npm install -g bower `
+    npm install -g bower
 
 This can be done using git-bash also. Make sure you have defined PATH variables for git-cmd and git-bin.
 
