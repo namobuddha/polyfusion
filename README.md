@@ -24,6 +24,8 @@ This can be done using git-bash also. Make sure you have defined PATH variables 
 
 More number of custom elements can be downloaded from :[customelement.io](http://customelement.io/)
 
+Added `<voice-element>` with voice manipulation support. 
+
 
 ----------
 
