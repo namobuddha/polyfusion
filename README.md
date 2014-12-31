@@ -16,7 +16,7 @@ Make sure you have installed **node.js** and loaded **bower** correctly.
 
 > Make sure you install bower.
 
-Windows user in command prompt:
+Windows user in command prompt::
 
     npm install -g bower
 
