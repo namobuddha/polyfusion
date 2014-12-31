@@ -22,7 +22,7 @@ Windows user in command prompt:
 
 This can be done using git-bash also. Make sure you have defined PATH variables for git-cmd and git-bin.
 
-More number of custom elements can be downloaded from [customelement.io](http://customelement.io/)
+More number of custom elements can be downloaded from :[customelement.io](http://customelement.io/)
 
 
 ----------
