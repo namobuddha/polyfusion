@@ -1,4 +1,4 @@
-polyfusion
+Polyfusion
 ==========
 
 **Polyfusion** is a **google polymer** based project. 
@@ -20,13 +20,22 @@ Windows user in command prompt::
 
     npm install -g bower
 
-This can be done using git-bash also. Make sure you have defined PATH variables for git-cmd and git-bin.
+Update the *bower.json* run in:
+
+    bower init
+
+
+Make sure you have defined user PATH variables for git/cmd and git/bin.
 
 More number of custom elements can be downloaded from :[customelement.io](http://customelement.io/)
 
 - Added `<voice-elements>` with voice manipulation support. 
 - Added `google-maps` support.
 - Added `<x-tags>`imports
+
+To update libraries:
+
+    bower update
 
 ----------
 
