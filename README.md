@@ -15,6 +15,7 @@ Make sure you have installed **node.js** and loaded **bower** correctly.
 > To install **node.js** in your platform: [Click here](http://nodejs.org/)
 
 > Make sure you install bower.
+> > Installing bower gives excess to some private repositories using some SSH encryption. This is different then accessing some public repositories.
 
 Windows user in command prompt::
 
@@ -27,7 +28,7 @@ Update the *bower.json* run in:
 
 Make sure you have defined user PATH variables for git/cmd and git/bin.
 
-More number of custom elements can be downloaded from :[customelement.io](http://customelement.io/)
+More number of custom elements can be downloaded from :[customelements.io](http://customelements.io/)
 
 - Added `<voice-elements>` with voice manipulation support. 
 - Added `google-maps` support.
